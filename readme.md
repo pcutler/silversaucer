@@ -12,3 +12,5 @@ Silver Saucer will be used to:
 * Learn `pytest` and testing
 * Learn the Pyramid web Framework
 * A couple secret projects still brewing in my head...
+
+This branch is the original branch configured to use sqlalchemy.
